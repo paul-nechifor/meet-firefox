@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/meet-firefox](http://gitlab.com/paul-nechifor/meet-firefox).
+
+Old readme:
+
 # Meet Firefox
 
 ![Meet Firefox screenshot](screenshot.png)
